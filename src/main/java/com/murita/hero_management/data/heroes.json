@@ -1,0 +1,102 @@
+[
+  {
+    "Id": 1,
+    "name": "Thunderbolt",
+    "power": "Electrokinesis"
+  },
+  {
+    "Id": 2,
+    "name": "Shadowmancer",
+    "power": "Shadow manipulation"
+  },
+  {
+    "Id": 3,
+    "name": "Quantum Shift",
+    "power": "Teleportation"
+  },
+  {
+    "Id": 4,
+    "name": "Flora Guardian",
+    "power": "Plant control"
+  },
+  {
+    "Id": 5,
+    "name": "Mindweaver",
+    "power": "Telepathy"
+  },
+  {
+    "Id": 6,
+    "name": "Inferno",
+    "power": "Pyrokinesis"
+  },
+  {
+    "Id": 7,
+    "name": "Glacier",
+    "power": "Cryokinesis"
+  },
+  {
+    "Id": 8,
+    "name": "Ironclad",
+    "power": "Invulnerability"
+  },
+  {
+    "Id": 9,
+    "name": "Windwalker",
+    "power": "Aerokinesis"
+  },
+  {
+    "Id": 10,
+    "name": "Shapeshifter",
+    "power": "Metamorphosis"
+  },
+  {
+    "Id": 11,
+    "name": "Chronos",
+    "power": "Time manipulation"
+  },
+  {
+    "Id": 12,
+    "name": "Gravity Master",
+    "power": "Gravity control"
+  },
+  {
+    "Id": 13,
+    "name": "Mystic",
+    "power": "Magic spells"
+  },
+  {
+    "Id": 14,
+    "name": "Soundwave",
+    "power": "Sonic manipulation"
+  },
+  {
+    "Id": 15,
+    "name": "Lumina",
+    "power": "Light manipulation"
+  },
+  {
+    "Id": 16,
+    "name": "Terra",
+    "power": "Earth manipulation"
+  },
+  {
+    "Id": 17,
+    "name": "Vortex",
+    "power": "Portal creation"
+  },
+  {
+    "Id": 18,
+    "name": "Psionic",
+    "power": "Telekinesis"
+  },
+  {
+    "Id": 19,
+    "name": "Speedster",
+    "power": "Super speed"
+  },
+  {
+    "Id": 20,
+    "name": "Chameleon",
+    "power": "Invisibility"
+  }
+]
